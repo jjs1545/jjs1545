@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Comming Soon!
+### Dart, Flutter, Java, Spring Framwork
 
 <!--
 **jjs1545/jjs1545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
